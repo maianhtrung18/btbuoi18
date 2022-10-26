@@ -1,0 +1,17 @@
+.form-control{
+    width: 300px;
+    margin: 20px auto;
+}
+.container{
+    text-align: center;
+}
+.btn-primary{
+    margin-bottom: 10px;
+}
+.showResult{
+    text-align: left;
+}
+.result{
+    width: 500px;
+    margin: auto;
+}
